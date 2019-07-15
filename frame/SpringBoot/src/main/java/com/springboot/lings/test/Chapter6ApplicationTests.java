@@ -12,6 +12,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.List;
 
+/**
+ * @Author Lings 603656949@qq.com
+ * @Date  2019/7/15
+ * @Param
+ * @return
+ * @Desc  整合mybatis测试
+ **/
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class Chapter6ApplicationTests {

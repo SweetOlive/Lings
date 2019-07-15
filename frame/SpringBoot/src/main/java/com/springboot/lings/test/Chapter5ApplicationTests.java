@@ -21,7 +21,7 @@ import java.util.List;
  * @Date  2019/7/12
  * @Param
  * @return
- * @Desc
+ * @Desc  整合Jpa测试
  **/
 @RunWith(SpringRunner.class)
 @SpringBootTest

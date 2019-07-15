@@ -10,6 +10,7 @@ import java.io.Serializable;
  * @Desc 测试实体
  **/
 @Entity(name = "t_user")
+@Table(name = "t_user")
 public class User implements Serializable {
     private static final long serialVersionUID = 8655851615465363473L;
 
