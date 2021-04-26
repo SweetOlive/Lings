@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<img src="./img/500.png" alt="500" style="height:100%; weight:100%;">
+<img src="./img/500.jpg" alt="500" style="height:100%; weight:100%;">
 
 </body>
 </html>
