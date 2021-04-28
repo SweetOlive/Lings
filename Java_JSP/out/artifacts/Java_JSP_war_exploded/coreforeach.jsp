@@ -26,6 +26,9 @@
 <%--
 var:每一次遍历出来的变量
 items：要遍历的对象
+begin:哪里开始
+end:到哪里
+step:步长
 --%>
 <c:forEach var="people" items="${list}">
     <c:out value="${people}"/><br>
