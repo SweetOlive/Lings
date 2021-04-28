@@ -26,5 +26,16 @@
         <!--只要是/servlet的任何请求都会经过这个过滤器-->
         <url-pattern>/servlet/*</url-pattern>
     </filter-mapping>
+    
+    <!--注册监听器-->
+    <listener>
+        <listener-class>com.listener.OnlineListener</listener-class>
+    </listener>
+
+
+    <!--自动销毁：1分钟-->
+    <session-config>
+        <session-timeout>1</session-timeout>
+    </session-config>
 
 </web-app>
