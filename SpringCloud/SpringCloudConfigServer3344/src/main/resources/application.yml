@@ -1,0 +1,13 @@
+server:
+  port: 3344
+spring:
+  application:
+    name: springcloud-config-server
+    # 连接远程仓库
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/aclings/spring-cloud-config.git  # https 不是ssh的git
+          username: 603656949@qq.com
+          password: cai.gui.com690
