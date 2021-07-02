@@ -1,3 +1,5 @@
+package leetcode;
+
 public class leetcode_1115_Thread {
 
     public static void main(String[] args) {

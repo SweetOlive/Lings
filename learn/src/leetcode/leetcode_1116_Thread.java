@@ -1,3 +1,5 @@
+package leetcode;
+
 public class leetcode_1116_Thread {
     public static void main(String[] args) {
         ZeroEvenOdd zeroEvenOdd = new ZeroEvenOdd(10);
