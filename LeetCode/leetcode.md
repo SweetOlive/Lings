@@ -1,3 +1,7 @@
+### 2021-11-23
+- [x] [Leetcode.859.亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode859.java)
+
 ### 2021-11-22
 - [x] [Leetcode.714.买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode714.java)
