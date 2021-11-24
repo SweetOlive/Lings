@@ -1,3 +1,7 @@
+### 2021-11-24
+- [x] [Leetcode.423.从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode423.java)
+
 ### 2021-11-23
 - [x] [Leetcode.859.亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode859.java)
