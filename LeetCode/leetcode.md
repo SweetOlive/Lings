@@ -5,6 +5,9 @@
 - [x] [Leetcode.35.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode35.java)
 
+- [x] [Leetcode.2032.至少在两个数组中出现的值](https://leetcode-cn.com/problems/two-out-of-three/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode2032.java)
+
 ### 2021-11-24
 - [x] [Leetcode.423.从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode423.java)
