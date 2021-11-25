@@ -2,6 +2,9 @@
 - [x] [Leetcode.28.实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode28.java)
 
+- [x] [Leetcode.35.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode35.java)
+
 ### 2021-11-24
 - [x] [Leetcode.423.从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode423.java)
