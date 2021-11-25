@@ -10,6 +10,9 @@ public class leetcode35 {
     }
 
     public static int searchInsert(int[] nums, int target) {
+        // 最优解是二分查找，没仔细看题意
+        // 题意提示：nums 为无重复元素的升序排列数组 ，故可用二分
+        //下面是暴力解
         if (nums.length == 1)
             return target <= nums[0] ? 0 : 1;
         int cnt = 0;
