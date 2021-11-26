@@ -2,6 +2,9 @@
 - [x] [Leetcode.700.二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode700.java)
 
+- [x] [Leetcode.1446.连续字符](https://leetcode-cn.com/problems/consecutive-characters/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode1446.java)
+
 ### 2021-11-25
 - [x] [Leetcode.28.实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode28.java)
