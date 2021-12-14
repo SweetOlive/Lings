@@ -28,6 +28,9 @@ public class leetcode700 {
     }
 
     public static TreeNode searchBST(TreeNode root, int val) {
+        //二叉搜索树满足如下性质：
+        //左子树所有节点的元素值均小于根的元素值；
+        //右子树所有节点的元素值均大于根的元素值。
         TreeNode tree = null;// 记录相等的树节点
         if (root.val == val)
             tree = root;
