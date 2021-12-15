@@ -5,6 +5,9 @@
 - [x] [Leetcode.53.最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode53.java)
 
+- [x] [Leetcode.58.最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode58.java)
+
 ### 2021-12-14
 - [x] [Leetcode.207.课程表](https://leetcode-cn.com/problems/course-schedule/)     
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode207.java)
