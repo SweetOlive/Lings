@@ -2,6 +2,9 @@
 - [x] [Leetcode.69.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode69.java)
 
+- [x] [Leetcode.70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode70.java)
+
 ### 2021-12-15
 - [x] [Leetcode.27.移除元素](https://leetcode-cn.com/problems/remove-element/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode27.java)
