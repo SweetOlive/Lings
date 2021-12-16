@@ -8,6 +8,9 @@
 - [x] [Leetcode.88.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode88.java)
 
+- [x] [Leetcode.94.二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode94.java)
+
 ### 2021-12-15
 - [x] [Leetcode.27.移除元素](https://leetcode-cn.com/problems/remove-element/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode27.java)
