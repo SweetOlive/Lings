@@ -2,6 +2,12 @@
 - [x] [Leetcode.1518.换酒问题](https://leetcode-cn.com/problems/water-bottles/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode1518.java)
 
+- [x] [Leetcode.144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode144.java)
+
+- [x] [Leetcode.145.二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode145.java)
+
 ### 2021-12-16
 - [x] [Leetcode.69.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode69.java)
