@@ -16,7 +16,7 @@ public class leetcode100 {
         TreeNode a2_3 = new TreeNode(3);
         a2_1.left = a2_2;
         a2_1.right = a2_3;
-        System.out.println(isSameTree(a1_1,a2_1));
+        System.out.println(isSameTree(a1_1, a2_1));
 
         // 输入：p = [1,2], q = [1,null,2]
         // 输出：false
@@ -27,7 +27,7 @@ public class leetcode100 {
         TreeNode b2_1 = new TreeNode(1);
         TreeNode b2_2 = new TreeNode(2);
         b2_1.right = b2_2;
-        System.out.println(isSameTree(b1_1,b2_1));
+        System.out.println(isSameTree(b1_1, b2_1));
 
         // 输入：p = [1,2,1], q = [1,1,2]
         // 输出：false
@@ -42,7 +42,7 @@ public class leetcode100 {
         TreeNode c2_3 = new TreeNode(2);
         c2_1.left = c2_2;
         c2_1.right = c2_3;
-        System.out.println(isSameTree(c1_1,c2_1));
+        System.out.println(isSameTree(c1_1, c2_1));
 
     }
 
@@ -50,13 +50,13 @@ public class leetcode100 {
         boolean isSame = true; // 记录是否相等
         if ((p == null && q != null) || (p != null && q == null))
             return false;
-        if (p != null){
+        if (p != null) {
             if (p.val != q.val) // 校验值是否相等
                 return false;
-            isSame = isSameTree(p.left,q.left);
+            isSame = isSameTree(p.left, q.left);
             if (!isSame) // 不等直接返回跳出递归
                 return false;
-            isSame = isSameTree(p.right,q.right);
+            isSame = isSameTree(p.right, q.right);
             if (!isSame) // 不等直接返回跳出递归
                 return false;
         }

@@ -42,7 +42,9 @@ public class leetcode94 {
         System.out.println(inorderTraversal(a1));
 
     }
+
     private static List<Integer> list = new ArrayList<>();
+
     public static List<Integer> inorderTraversal(TreeNode root) {
         if (root == null)
             return list;

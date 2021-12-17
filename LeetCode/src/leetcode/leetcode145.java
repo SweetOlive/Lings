@@ -43,6 +43,7 @@ public class leetcode145 {
     }
 
     private static List<Integer> list = new ArrayList<>();
+
     public static List<Integer> postorderTraversal(TreeNode root) {
         if (root == null)
             return list;

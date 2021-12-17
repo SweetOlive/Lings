@@ -45,6 +45,7 @@ public class leetcode144 {
     }
 
     private static List<Integer> list = new ArrayList<>();
+
     public static List<Integer> preorderTraversal(TreeNode root) {
         if (root == null)
             return list;
