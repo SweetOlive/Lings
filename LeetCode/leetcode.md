@@ -8,6 +8,9 @@
 - [x] [Leetcode.145.二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode145.java)
 
+- [x] [Leetcode.100.相同的树](https://leetcode-cn.com/problems/same-tree/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode100.java)
+
 ### 2021-12-16
 - [x] [Leetcode.69.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode69.java)
