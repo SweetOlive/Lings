@@ -1,3 +1,7 @@
+### 2021-12-17
+- [x] [Leetcode.1518.换酒问题](https://leetcode-cn.com/problems/water-bottles/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode1518.java)
+
 ### 2021-12-16
 - [x] [Leetcode.69.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode69.java)
