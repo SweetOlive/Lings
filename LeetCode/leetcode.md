@@ -14,6 +14,9 @@
 - [x] [Leetcode.101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode101.java)
 
+- [x] [Leetcode.104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode104.java)
+
 ### 2021-12-16
 - [x] [Leetcode.69.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode69.java)
