@@ -1,7 +1,7 @@
 package leetcode;
 
 public class TreeNode {
-    int val;
+    int val; // 值
     TreeNode left;
     TreeNode right;
 
@@ -26,4 +26,15 @@ public class TreeNode {
                 ", right=" + right +
                 '}';
     }
+    // 中序遍历：左->根->右
+    public void infixOrder(){
+        if (this.left != null){ // 先左子节点
+            this.left.infixOrder();
+        }
+        System.out.println(this.val);   // 再根节点
+        if (this.right != null){
+            this.right.infixOrder();    // 最后右子节点
+        }
+    }
+
 }
