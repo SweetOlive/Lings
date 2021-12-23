@@ -5,6 +5,10 @@
 - [x] [Leetcode.110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode110.java)
 
+- [x] [Leetcode.111.二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode111.java)
+
+
 ### 2021-12-17
 - [x] [Leetcode.1518.换酒问题](https://leetcode-cn.com/problems/water-bottles/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode1518.java)
