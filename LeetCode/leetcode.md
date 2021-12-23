@@ -2,6 +2,9 @@
 - [x] [Leetcode.108.将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode108.java)
 
+- [x] [Leetcode.110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode110.java)
+
 ### 2021-12-17
 - [x] [Leetcode.1518.换酒问题](https://leetcode-cn.com/problems/water-bottles/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode1518.java)

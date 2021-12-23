@@ -31,10 +31,17 @@ public class TreeNode {
         if (this.left != null){ // 先左子节点
             this.left.infixOrder();
         }
-        System.out.println(this.val);   // 再根节点
+        System.out.print(this.val + " ");   // 再根节点
         if (this.right != null){
             this.right.infixOrder();    // 最后右子节点
         }
+    }
+
+    // 求树的最大深度
+    public static int maxDepth(TreeNode root) {
+        if (root == null)
+            return 0;
+        return Math.max(maxDepth(root.left) , maxDepth(root.right)) +1;
     }
 
 }
