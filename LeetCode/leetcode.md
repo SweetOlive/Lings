@@ -1,3 +1,13 @@
+### 2022-09-20
+- [x] [Leetcode.112.路径总和](https://leetcode.cn/problems/path-sum/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode112.java)
+
+- [x] [Leetcode.168.Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode168.java)
+
+- [x] [Leetcode.169.多数元素](https://leetcode.cn/problems/majority-element/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode169.java)
+
 ### 2021-12-23
 - [x] [Leetcode.108.将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode108.java)
