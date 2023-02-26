@@ -1,3 +1,59 @@
+### 2023-02-25
+- [x] [Leetcode.217.存在重复元素](https://leetcode.cn/problems/contains-duplicate/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode217.java)
+
+- [x] [Leetcode.268.丢失的数字](https://leetcode.cn/problems/missing-number/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode268.java)
+
+- [x] [Leetcode.283.移动零](https://leetcode.cn/problems/move-zeroes/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode283.java)
+
+- [x] [Leetcode.231.2 的幂](https://leetcode.cn/problems/power-of-two/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode231.java)
+
+- [x] [Leetcode.292.Nim 游戏](https://leetcode.cn/problems/nim-game/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode292.java)
+
+### 2023-02-24
+- [x] [Leetcode.263.丑数](https://leetcode.cn/problems/ugly-number/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode263.java)
+
+- [x] [Leetcode.374.猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode374.java)
+
+- [x] [Leetcode.2357.使数组中所有元素都等于零](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode2357.java)
+
+- [x] [Leetcode.461.汉明距离](https://leetcode.cn/problems/hamming-distance/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode461.java)
+
+### 2023-02-23
+- [x] [Leetcode.434.字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode434.java)
+
+- [x] [Leetcode.412.Fizz Buzz](https://leetcode.cn/problems/fizz-buzz/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode412.java)
+
+- [x] [Leetcode.278.第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode278.java)
+
+- [x] [Leetcode.455.分发饼干](https://leetcode.cn/problems/assign-cookies/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode455.java)
+
+### 2023-02-22
+- [x] [Leetcode.195.第十行](https://leetcode.cn/problems/tenth-line/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode195.java)
+
+- [x] [Leetcode.414.第三大的数](https://leetcode.cn/problems/third-maximum-number/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode414.java)
+
+### 2023-02-21
+- [x] [Leetcode.202.快乐数](https://leetcode.cn/problems/happy-number/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode202.java)
+
+- [x] [Leetcode.191.位1的个数](https://leetcode.cn/problems/number-of-1-bits/)
+* [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode191.java)
+
 ### 2022-09-20
 - [x] [Leetcode.112.路径总和](https://leetcode.cn/problems/path-sum/)
 * [代码](https://github.com/SweetOlive/Lings/blob/master/LeetCode/src/leetcode/leetcode112.java)
